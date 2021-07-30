@@ -78,7 +78,7 @@ Once installed the ESP32 Arduino Board Support Package, Sensei32 Arduino board c
 
 ### 2. Install basic libraries
 
-Sensei32 can be used with most third-party library designed for Arduino. In this example, the Texas Instruments integrated HDC1080 Temperature and Humidity sensor is read using a stantad library, that can be easily downloaded from the Arduino Library Manager:
+Sensei32 can be used with most third-party library designed for Arduino. In this example, the integrated Texas Instruments HDC1080 Temperature and Humidity sensor is read using a standard library, that can be easily downloaded from the Arduino Library Manager:
 - HDC1080 Library from ClosedCube, [Library Github][CCube]
 
 ### 3. You are ready to go!
