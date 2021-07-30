@@ -95,6 +95,7 @@ We would like to acknowledge the assistance of [G6EJD][G6EJD_H] that has inspire
    [arduesp]: <https://www.hackster.io/abdularbi17/how-to-install-esp32-board-in-arduino-ide-1cd571>
    [G6EJD_H]: <http://g6ejd.dynu.com>
    [WEMOS]: <https://wiki.geekworm.com/index.php/WEMOS_ESP32_Board_with_18650_Battery_Holder>
+   [CCube]: <https://github.com/closedcube/ClosedCube_HDC1080_Arduino>
    [DChan]: <https://discord.gg/HK5cx9yMgQ>
    [HChan]: <https://hackaday.io/project/180675-sensei32>
    [TChan]: <https://www.tindie.com/products/24139/>      
